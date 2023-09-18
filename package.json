@@ -24,12 +24,12 @@
     "webrtc"
   ],
   "dependencies": {
-    "long": "~3"
+    "long": "~5"
   },
   "devDependencies": {
     "lxiv": "~0.2",
-    "metascript": "~0",
-    "pretty-hrtime": "^1.0.0",
+    "metascript": "~1",
+    "pretty-hrtime": "^1.0.3",
     "testjs": "~1",
     "utfx": "^1.0.1"
   },
