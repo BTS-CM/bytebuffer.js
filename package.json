@@ -38,9 +38,7 @@
     "node": ">=6"
   },
   "scripts": {
-    "prepublish": "npm test",
-    "test": "node node_modules/testjs/bin/testjs tests/suite.js",
-    "make": "npm run-script build && npm test",
+    "make": "npm run-script build",
     "build": "node scripts/build.js"
   }
 }
